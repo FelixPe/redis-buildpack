@@ -9,7 +9,7 @@ dependencies:
   uri: http://redis-buildpack.s3-website-us-east-1.amazonaws.com/blobs/redis/redis-compiled-4.0.2.tgz
   md5: 14b66cc4cfedf97590ea47db94387fe7
   cf_stacks:
-  - cflinuxfs2
+  - cflinuxfs3
 include_files:
 - LICENSE
 - README.md
